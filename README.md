@@ -61,9 +61,9 @@ __Herramientas:__
 
 ## Contactame!
 
-[<img align="left" alt="LinkedIn" width="30" height="30" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
-<a href="https://t.me/AlexOrdaya"><img align="left" alt="telegram" width="30" height="30" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/></a>
-<a href="mailto:ordayafloresalex@gmail.com?Subject=Consulta"><img align="left" alt="gmail" width="30" height="30" src="https://img.icons8.com/office/80/000000/send-mass-email.png"/></a>
+[<img align="left" alt="LinkedIn" width="30" height="30" target="_blank" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
+<a href="https://t.me/AlexOrdaya"><img align="left" alt="telegram" target="_blank" width="30" height="30" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/></a>
+<a href="mailto:ordayafloresalex@gmail.com?Subject=Consulta" target="_blank"><img align="left" alt="gmail" width="30" height="30" src="https://img.icons8.com/office/80/000000/send-mass-email.png"/></a>
 <br />
 
 
