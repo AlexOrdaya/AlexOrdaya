@@ -16,7 +16,7 @@
 __Lenguajes:__ 
 <br />
 <br />
-<img align="left" src="https://img.icons8.com/glyph-neue/64/000000/php.png" width="30" height="30" />
+<img align="left" src="https://img.icons8.com/fluent/96/000000/php.png" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
 <img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="30" height="30"/>
 <img align="left" src="https://img.icons8.com/color/64/000000/oracle-logo.png" width="30" height="30"/>
@@ -28,7 +28,7 @@ __Herramientas:__
 <br />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
+<img align="left" src="https://img.icons8.com/color/96/000000/github--v1.png" width="30" height="30" />
 <br />
 <br />
 
@@ -61,9 +61,9 @@ __Herramientas:__
 
 ## Contactame!
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
-<a href="https://t.me/AlexOrdaya"><img align="left" alt="telegram" width="22px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/></a>
-<a href="mailto:ordayafloresalex@gmail.com?Subject=Consulta"><img align="left" alt="gmail" width="22px" src="https://img.icons8.com/material-two-tone/96/000000/email-open.png"/></a>
+[<img align="left" alt="LinkedIn" width="30" height="30" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
+<a href="https://t.me/AlexOrdaya"><img align="left" alt="telegram" width="30" height="30" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/></a>
+<a href="mailto:ordayafloresalex@gmail.com?Subject=Consulta"><img align="left" alt="gmail" width="30" height="30" src="https://img.icons8.com/office/80/000000/send-mass-email.png"/></a>
 <br />
 
 
