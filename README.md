@@ -63,7 +63,7 @@ __Herramientas:__
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" />][linkedin]
 <a href="https://t.me/AlexOrdaya"><img align="left" alt="telegram" width="22px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/></a>
-<a href="mailto:ordayafloresalex@gmail.com"><img align="left" alt="gmail" width="22px" src="https://img.icons8.com/material-two-tone/96/000000/email-open.png"/></a>
+<a href="mailto:ordayafloresalex@gmail.com?Subject=Consulta"><img align="left" alt="gmail" width="22px" src="https://img.icons8.com/material-two-tone/96/000000/email-open.png"/></a>
 <br />
 
 
